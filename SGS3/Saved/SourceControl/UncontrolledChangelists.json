@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/LM/VRK8UAZR3J2TAKS74SHCUD.uasset"
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/LM/VRK8UAZR3J2TAKS74SHCUD.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_Item.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_TestChildItem.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_AICharacter.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/W9/LB9LQGRD6VE76SEZNU7FDI.uasset"
 			]
 		}
 	]
