@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ywe21afu\\documents\\unrealprojects\\sgs3\\sgs3\\sgs3\\intermediate\\build\\win64\\unrealeditor\\inc\\sgs3\\uht\\sgs3playercontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ywe21afu\\documents\\unrealprojects\\sgs3\\sgs3\\sgs3\\intermediate\\build\\win64\\x64\\sgs3editor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ywe21afu\\documents\\unrealprojects\\sgs3\\sgs3\\sgs3\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sgs3\\definitions.sgs3.h",
+            "c:\\users\\ywe21afu\\documents\\unrealprojects\\sgs3\\sgs3\\sgs3\\source\\sgs3\\sgs3playercontroller.h",
+            "c:\\users\\ywe21afu\\documents\\unrealprojects\\sgs3\\sgs3\\sgs3\\intermediate\\build\\win64\\unrealeditor\\inc\\sgs3\\uht\\sgs3playercontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
