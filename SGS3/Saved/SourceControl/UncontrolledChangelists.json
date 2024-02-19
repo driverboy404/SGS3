@@ -13,12 +13,22 @@
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/W9/LB9LQGRD6VE76SEZNU7FDI.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_Treasure.uasset",
-				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/BP_AIController.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_AIController.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BB_AI.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/AI_BehaviourTree.uasset",
 				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTS_GetPlayer.uasset",
-				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/NA/FKEZJ3XGZJVP32EWZJKMC6.uasset"
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/NA/FKEZJ3XGZJVP32EWZJKMC6.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTS_FindNearestTreasure.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTT_GetItem.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BP_Exit.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/DR/HW1K0RALQ753QVZLLVHAYQ.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/TW/HEHB1J3M8656JAX20ZK0K6.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/F/3A/FEZ7ENZ33X5D98U0PAF4PC.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/Q6/95LJVKI8EJPEPZS4NC1KP2.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTT_TakeTreasure.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTT_SetExit.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/TopDown/Blueprints/BTT_ClearItem.uasset",
+				"C:/Users/ywe21afu/Documents/UnrealProjects/SGS3/SGS3/SGS3/Content/BP_AIController.uasset"
 			]
 		}
 	]
